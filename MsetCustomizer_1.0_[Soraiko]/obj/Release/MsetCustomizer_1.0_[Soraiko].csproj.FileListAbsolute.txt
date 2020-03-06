@@ -1,0 +1,12 @@
+C:\Users\Soraiko\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\obj\Release\MsetCustomizer_1.0_[Soraiko].csprojResolveAssemblyReference.cache
+C:\Users\Soraiko\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\obj\Release\MsetCustomizer_1.___Soraiko_.MainForm.resources
+C:\Users\Soraiko\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\obj\Release\MsetCustomizer_1.0_[Soraiko].csproj.GenerateResource.Cache
+C:\Users\Soraiko\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\bin\Release\KH2MsetCustomizer_1.0_[Soraiko].exe.config
+C:\Users\Soraiko\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\bin\Release\KH2MsetCustomizer_1.0_[Soraiko].exe
+C:\Users\Soraiko\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\obj\Release\KH2MsetCustomizer_1.0_[Soraiko].exe
+A:\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\bin\Release\KH2MsetCustomizer_1.0_[Soraiko].exe.config
+A:\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\bin\Release\KH2MsetCustomizer_1.0_[Soraiko].exe
+A:\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\obj\Release\MsetCustomizer_1.0_[Soraiko].csprojResolveAssemblyReference.cache
+A:\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\obj\Release\MsetCustomizer_1.___Soraiko_.MainForm.resources
+A:\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\obj\Release\MsetCustomizer_1.0_[Soraiko].csproj.GenerateResource.Cache
+A:\Documents\SharpDevelop Projects\MsetCustomizer_1.0_[Soraiko]\MsetCustomizer_1.0_[Soraiko]\obj\Release\KH2MsetCustomizer_1.0_[Soraiko].exe
